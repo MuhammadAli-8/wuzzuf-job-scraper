@@ -27,13 +27,7 @@ Before you begin, ensure you have the following installed:
     cd wuzzuf-job-scraper
     ```
 
-2. Install the required Python packages:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Make sure you have the correct version of ChromeDriver:
+2. Make sure you have the correct version of ChromeDriver:
 
     - Download ChromeDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
     - Place the `chromedriver` executable in your system's PATH or in the project directory.
